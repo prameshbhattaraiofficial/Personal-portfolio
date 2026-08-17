@@ -19,6 +19,21 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUI();
 }
 
+const string CorsPolicy = "PortfolioFrontend";
+builder.Services.AddCors(options =>
+{
+    options.AddPolicy(CorsPolicy, policy =>
+    {
+        policy
+            .WithOrigins(
+                "http://localhost:5173",
+                "https://portfolio-kappa-brown-50.vercel.app"
+            )
+            .AllowAnyHeader()
+            .AllowAnyMethod();
+    });
+});
+
 app.UseHttpsRedirection();
 
 app.UseAuthorization();
