@@ -74,23 +74,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "main.jsx",
-              "DocumentMoniker": "E:\\portfolio\\personalportfolio\\personalportfolio.client\\src\\main.jsx",
-              "RelativeDocumentMoniker": "personalportfolio.client\\src\\main.jsx",
-              "ToolTip": "E:\\portfolio\\personalportfolio\\personalportfolio.client\\src\\main.jsx",
-              "RelativeToolTip": "personalportfolio.client\\src\\main.jsx",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2026-08-16T14:21:49.528Z"
             },
             {
               "$type": "Document",
@@ -103,6 +91,31 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAHgCAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2026-08-16T14:58:06.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\portfolio\\personalportfolio\\personalportfolio.Server\\Program.cs",
+              "RelativeDocumentMoniker": "personalportfolio.Server\\Program.cs",
+              "ToolTip": "E:\\portfolio\\personalportfolio\\personalportfolio.Server\\Program.cs",
+              "RelativeToolTip": "personalportfolio.Server\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-16T15:36:42.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "main.jsx",
+              "DocumentMoniker": "E:\\portfolio\\personalportfolio\\personalportfolio.client\\src\\main.jsx",
+              "RelativeDocumentMoniker": "personalportfolio.client\\src\\main.jsx",
+              "ToolTip": "E:\\portfolio\\personalportfolio\\personalportfolio.client\\src\\main.jsx",
+              "RelativeToolTip": "personalportfolio.client\\src\\main.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-08-16T14:21:49.528Z"
             },
             {
               "$type": "Document",
@@ -126,8 +139,7 @@
               "RelativeToolTip": "personalportfolio.client\\src\\api.js",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2026-08-16T14:26:01.169Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-16T14:26:01.169Z"
             },
             {
               "$type": "Document",
@@ -152,19 +164,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2026-08-16T14:22:14.033Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\portfolio\\personalportfolio\\personalportfolio.Server\\Program.cs",
-              "RelativeDocumentMoniker": "personalportfolio.Server\\Program.cs",
-              "ToolTip": "E:\\portfolio\\personalportfolio\\personalportfolio.Server\\Program.cs",
-              "RelativeToolTip": "personalportfolio.Server\\Program.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAkwCQAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-16T15:36:42.065Z",
-              "EditorCaption": ""
             },
             {
               "$type": "Document",
