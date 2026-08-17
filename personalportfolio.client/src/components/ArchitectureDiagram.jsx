@@ -23,28 +23,28 @@ export default function ArchitectureDiagram() {
           </g>
 
           <text className="ring-sub" x="210" y="52" textAnchor="middle" fill="#8B92A8">
-            React · jQuery · Bootstrap
+            React Â· jQuery Â· Bootstrap
           </text>
 
           <text className="ring-label" x="210" y="82" textAnchor="middle" fill="#5B8DEF">
             INFRASTRUCTURE
           </text>
           <text className="ring-sub" x="210" y="97" textAnchor="middle" fill="#8B92A8">
-            EF Core · ADO.Net · MSSQL
+            EF Core Â· ADO.Net Â· MSSQL
           </text>
 
           <text className="ring-label" x="210" y="128" textAnchor="middle" fill="#ECEEF4">
             APPLICATION
           </text>
           <text className="ring-sub" x="210" y="143" textAnchor="middle" fill="#8B92A8">
-            ASP.NET Core · Web API
+            ASP.NET Core Â· Web API
           </text>
 
           <text className="ring-label" x="210" y="207" textAnchor="middle" fill="#ECEEF4" fontWeight="600">
             DOMAIN
           </text>
           <text className="ring-sub" x="210" y="222" textAnchor="middle" fill="#8B92A8">
-            C# · OOP
+            C# Â· OOP
           </text>
         </svg>
         <div className="diagram-caption">the shape everything else here gets built inside</div>

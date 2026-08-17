@@ -1,4 +1,4 @@
-// Chips that get the highlighted "lead" treatment — the two technologies
+// Chips that get the highlighted "lead" treatment â€” the two technologies
 // this portfolio is built with.
 const LEAD_ITEMS = new Set(['React', 'ASP.NET Core'])
 

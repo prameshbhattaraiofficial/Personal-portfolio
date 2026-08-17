@@ -11,7 +11,7 @@ export default function Footer({ profile }) {
           <a className="btn btn-secondary" href={profile.linkedIn} target="_blank" rel="noopener noreferrer">LinkedIn</a>
         </div>
         <div className="footer-bottom">
-          {profile.location} <span className="accent">·</span> served from an ASP.NET Core API
+          {profile.location} <span className="accent">Â·</span> served from an ASP.NET Core API
         </div>
       </div>
     </footer>

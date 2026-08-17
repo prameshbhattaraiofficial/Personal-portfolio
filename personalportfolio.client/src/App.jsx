@@ -42,7 +42,7 @@ export default function App() {
       <div className="state-screen">
         <p>Couldn't reach the API.</p>
         <p className="state-detail">
-          {error} — make sure the ASP.NET Core backend is running on <code>http://localhost:5199</code>.
+          {error} â€” make sure the ASP.NET Core backend is running on <code>http://localhost:5199</code>.
         </p>
       </div>
     )
@@ -51,7 +51,7 @@ export default function App() {
   if (!data) {
     return (
       <div className="state-screen">
-        <p>Loading portfolio…</p>
+        <p>Loading portfolioâ€¦</p>
       </div>
     )
   }
