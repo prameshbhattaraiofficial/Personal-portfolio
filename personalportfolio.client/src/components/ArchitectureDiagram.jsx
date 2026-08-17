@@ -2,7 +2,7 @@ export default function ArchitectureDiagram() {
   return (
     <div className="diagram-box">
       <div>
-              /*{
+              {
 
                   /*  <svg
           viewBox="0 0 420 420"

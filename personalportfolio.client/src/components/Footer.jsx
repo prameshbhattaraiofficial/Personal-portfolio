@@ -11,7 +11,7 @@ export default function Footer({ profile }) {
           <a className="btn btn-secondary" href={profile.linkedIn} target="_blank" rel="noopener noreferrer">LinkedIn</a>
         </div>
         <div className="footer-bottom">
-                  <span className="accent"></span> Copyright &copy; {new Date().getFullYear()} <span className="accent">Â·</span> Pramesh Bhattarai
+                  <span className="accent"></span> Copyright &copy; {new Date().getFullYear()} <span className="accent"></span> Pramesh Bhattarai
         </div>
       </div>
     </footer>
