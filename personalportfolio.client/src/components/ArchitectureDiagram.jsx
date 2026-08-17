@@ -2,12 +2,13 @@ export default function ArchitectureDiagram() {
   return (
     <div className="diagram-box">
       <div>
-        <svg
+              /*{
+
+                  /*  <svg
           viewBox="0 0 420 420"
           xmlns="http://www.w3.org/2000/svg"
           role="img"
-          aria-label="Clean Architecture layer diagram of the technical stack"
-        >
+          aria-label="Clean Architecture layer diagram of the technical stack">
           <g className="rotator">
             <circle className="ring" cx="210" cy="210" r="195" stroke="#262C3F" strokeDasharray="2 6" />
           </g>
@@ -23,31 +24,31 @@ export default function ArchitectureDiagram() {
           </g>
 
           <text className="ring-sub" x="210" y="52" textAnchor="middle" fill="#8B92A8">
-            React Â· jQuery Â· Bootstrap
+            React  jQuery  Bootstrap
           </text>
 
           <text className="ring-label" x="210" y="82" textAnchor="middle" fill="#5B8DEF">
             INFRASTRUCTURE
           </text>
           <text className="ring-sub" x="210" y="97" textAnchor="middle" fill="#8B92A8">
-            EF Core Â· ADO.Net Â· MSSQL
+            EF Core  ADO.Net  MSSQL
           </text>
 
           <text className="ring-label" x="210" y="128" textAnchor="middle" fill="#ECEEF4">
             APPLICATION
           </text>
           <text className="ring-sub" x="210" y="143" textAnchor="middle" fill="#8B92A8">
-            ASP.NET Core Â· Web API
+            ASP.NET Core  Web API
           </text>
 
           <text className="ring-label" x="210" y="207" textAnchor="middle" fill="#ECEEF4" fontWeight="600">
             DOMAIN
           </text>
           <text className="ring-sub" x="210" y="222" textAnchor="middle" fill="#8B92A8">
-            C# Â· OOP
+            C#  OOP
           </text>
         </svg>
-        <div className="diagram-caption">the shape everything else here gets built inside</div>
+        <div className="diagram-caption">the shape everything else here gets built inside</div>*/}
       </div>
     </div>
   )
