@@ -3,16 +3,12 @@
   "WorkspaceRootPath": "E:\\portfolio\\personalportfolio\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{825D7AC9-666C-F9B7-F2E9-9B35B4F9F86A}|personalportfolio.client\\personalportfolio.client.esproj|e:\\portfolio\\personalportfolio\\personalportfolio.client\\src\\components\\certificates.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{825D7AC9-666C-F9B7-F2E9-9B35B4F9F86A}|personalportfolio.client\\personalportfolio.client.esproj|solutionrelative:personalportfolio.client\\src\\components\\certificates.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{825D7AC9-666C-F9B7-F2E9-9B35B4F9F86A}|personalportfolio.client\\personalportfolio.client.esproj|e:\\portfolio\\personalportfolio\\personalportfolio.client\\src\\components\\education.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{825D7AC9-666C-F9B7-F2E9-9B35B4F9F86A}|personalportfolio.client\\personalportfolio.client.esproj|solutionrelative:personalportfolio.client\\src\\components\\education.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{825D7AC9-666C-F9B7-F2E9-9B35B4F9F86A}|personalportfolio.client\\personalportfolio.client.esproj|e:\\portfolio\\personalportfolio\\personalportfolio.client\\src\\components\\architecturediagram.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{825D7AC9-666C-F9B7-F2E9-9B35B4F9F86A}|personalportfolio.client\\personalportfolio.client.esproj|solutionrelative:personalportfolio.client\\src\\components\\architecturediagram.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{825D7AC9-666C-F9B7-F2E9-9B35B4F9F86A}|personalportfolio.client\\personalportfolio.client.esproj|e:\\portfolio\\personalportfolio\\personalportfolio.client\\src\\components\\footer.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{825D7AC9-666C-F9B7-F2E9-9B35B4F9F86A}|personalportfolio.client\\personalportfolio.client.esproj|solutionrelative:personalportfolio.client\\src\\components\\footer.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{825D7AC9-666C-F9B7-F2E9-9B35B4F9F86A}|personalportfolio.client\\personalportfolio.client.esproj|e:\\portfolio\\personalportfolio\\personalportfolio.client\\src\\components\\summary.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
@@ -31,12 +27,16 @@
       "RelativeMoniker": "D:0:0:{825D7AC9-666C-F9B7-F2E9-9B35B4F9F86A}|personalportfolio.client\\personalportfolio.client.esproj|solutionrelative:personalportfolio.client\\src\\components\\hero.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{825D7AC9-666C-F9B7-F2E9-9B35B4F9F86A}|personalportfolio.client\\personalportfolio.client.esproj|e:\\portfolio\\personalportfolio\\personalportfolio.client\\src\\components\\footer.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{825D7AC9-666C-F9B7-F2E9-9B35B4F9F86A}|personalportfolio.client\\personalportfolio.client.esproj|solutionrelative:personalportfolio.client\\src\\components\\footer.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{825D7AC9-666C-F9B7-F2E9-9B35B4F9F86A}|personalportfolio.client\\personalportfolio.client.esproj|e:\\portfolio\\personalportfolio\\personalportfolio.client\\src\\components\\experience.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{825D7AC9-666C-F9B7-F2E9-9B35B4F9F86A}|personalportfolio.client\\personalportfolio.client.esproj|solutionrelative:personalportfolio.client\\src\\components\\experience.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{825D7AC9-666C-F9B7-F2E9-9B35B4F9F86A}|personalportfolio.client\\personalportfolio.client.esproj|e:\\portfolio\\personalportfolio\\personalportfolio.client\\src\\components\\education.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{825D7AC9-666C-F9B7-F2E9-9B35B4F9F86A}|personalportfolio.client\\personalportfolio.client.esproj|solutionrelative:personalportfolio.client\\src\\components\\education.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{825D7AC9-666C-F9B7-F2E9-9B35B4F9F86A}|personalportfolio.client\\personalportfolio.client.esproj|e:\\portfolio\\personalportfolio\\personalportfolio.client\\src\\components\\certificates.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{825D7AC9-666C-F9B7-F2E9-9B35B4F9F86A}|personalportfolio.client\\personalportfolio.client.esproj|solutionrelative:personalportfolio.client\\src\\components\\certificates.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{825D7AC9-666C-F9B7-F2E9-9B35B4F9F86A}|personalportfolio.client\\personalportfolio.client.esproj|e:\\portfolio\\personalportfolio\\personalportfolio.client\\src\\api.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
@@ -114,7 +114,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Footer.jsx",
               "DocumentMoniker": "E:\\portfolio\\personalportfolio\\personalportfolio.client\\src\\components\\Footer.jsx",
               "RelativeDocumentMoniker": "personalportfolio.client\\src\\components\\Footer.jsx",
@@ -122,12 +122,11 @@
               "RelativeToolTip": "personalportfolio.client\\src\\components\\Footer.jsx",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2026-08-17T11:33:18.843Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-17T11:33:18.843Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "Hero.jsx",
               "DocumentMoniker": "E:\\portfolio\\personalportfolio\\personalportfolio.client\\src\\components\\Hero.jsx",
               "RelativeDocumentMoniker": "personalportfolio.client\\src\\components\\Hero.jsx",
@@ -139,7 +138,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "Nav.jsx",
               "DocumentMoniker": "E:\\portfolio\\personalportfolio\\personalportfolio.client\\src\\components\\Nav.jsx",
               "RelativeDocumentMoniker": "personalportfolio.client\\src\\components\\Nav.jsx",
@@ -151,19 +150,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Stack.jsx",
               "DocumentMoniker": "E:\\portfolio\\personalportfolio\\personalportfolio.client\\src\\components\\Stack.jsx",
               "RelativeDocumentMoniker": "personalportfolio.client\\src\\components\\Stack.jsx",
               "ToolTip": "E:\\portfolio\\personalportfolio\\personalportfolio.client\\src\\components\\Stack.jsx",
               "RelativeToolTip": "personalportfolio.client\\src\\components\\Stack.jsx",
-              "ViewState": "AgIAABEAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
               "WhenOpened": "2026-08-17T11:32:18.085Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Summary.jsx",
               "DocumentMoniker": "E:\\portfolio\\personalportfolio\\personalportfolio.client\\src\\components\\Summary.jsx",
               "RelativeDocumentMoniker": "personalportfolio.client\\src\\components\\Summary.jsx",
@@ -171,8 +170,7 @@
               "RelativeToolTip": "personalportfolio.client\\src\\components\\Summary.jsx",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2026-08-17T11:32:12.574Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-17T11:32:12.574Z"
             },
             {
               "$type": "Document",
@@ -182,7 +180,7 @@
               "RelativeDocumentMoniker": "personalportfolio.client\\src\\components\\ArchitectureDiagram.jsx",
               "ToolTip": "E:\\portfolio\\personalportfolio\\personalportfolio.client\\src\\components\\ArchitectureDiagram.jsx",
               "RelativeToolTip": "personalportfolio.client\\src\\components\\ArchitectureDiagram.jsx",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAADUAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
               "WhenOpened": "2026-08-17T11:30:53.48Z",
               "EditorCaption": ""
@@ -190,14 +188,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Certificates.jsx",
-              "DocumentMoniker": "E:\\portfolio\\personalportfolio\\personalportfolio.client\\src\\components\\Certificates.jsx",
-              "RelativeDocumentMoniker": "personalportfolio.client\\src\\components\\Certificates.jsx",
-              "ToolTip": "E:\\portfolio\\personalportfolio\\personalportfolio.client\\src\\components\\Certificates.jsx",
-              "RelativeToolTip": "personalportfolio.client\\src\\components\\Certificates.jsx",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "Education.jsx",
+              "DocumentMoniker": "E:\\portfolio\\personalportfolio\\personalportfolio.client\\src\\components\\Education.jsx",
+              "RelativeDocumentMoniker": "personalportfolio.client\\src\\components\\Education.jsx",
+              "ToolTip": "E:\\portfolio\\personalportfolio\\personalportfolio.client\\src\\components\\Education.jsx",
+              "RelativeToolTip": "personalportfolio.client\\src\\components\\Education.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2026-08-17T11:35:02.434Z",
+              "WhenOpened": "2026-08-17T11:37:25.584Z",
               "EditorCaption": ""
             },
             {
@@ -208,21 +206,21 @@
               "RelativeDocumentMoniker": "personalportfolio.client\\src\\components\\Experience.jsx",
               "ToolTip": "E:\\portfolio\\personalportfolio\\personalportfolio.client\\src\\components\\Experience.jsx",
               "RelativeToolTip": "personalportfolio.client\\src\\components\\Experience.jsx",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAABQAAAAAAAAAAAAQwAgAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
               "WhenOpened": "2026-08-16T14:57:09.552Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "Education.jsx",
-              "DocumentMoniker": "E:\\portfolio\\personalportfolio\\personalportfolio.client\\src\\components\\Education.jsx",
-              "RelativeDocumentMoniker": "personalportfolio.client\\src\\components\\Education.jsx",
-              "ToolTip": "E:\\portfolio\\personalportfolio\\personalportfolio.client\\src\\components\\Education.jsx",
-              "RelativeToolTip": "personalportfolio.client\\src\\components\\Education.jsx",
+              "Title": "Certificates.jsx",
+              "DocumentMoniker": "E:\\portfolio\\personalportfolio\\personalportfolio.client\\src\\components\\Certificates.jsx",
+              "RelativeDocumentMoniker": "personalportfolio.client\\src\\components\\Certificates.jsx",
+              "ToolTip": "E:\\portfolio\\personalportfolio\\personalportfolio.client\\src\\components\\Certificates.jsx",
+              "RelativeToolTip": "personalportfolio.client\\src\\components\\Certificates.jsx",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2026-08-17T11:37:25.584Z"
+              "WhenOpened": "2026-08-17T11:35:02.434Z"
             },
             {
               "$type": "Document",

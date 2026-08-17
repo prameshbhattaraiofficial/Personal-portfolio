@@ -12,7 +12,7 @@ export default function Education({ items }) {
             <div className="edu-degree">{item.degree}</div>
             <div className="edu-school">{item.school}</div>
             <div className="edu-gpa">GPA {item.gpa}</div>
-            <div className="edu-course">{item.coursework.join(' Â· ')}</div>
+            <div className="edu-course">{item.coursework}</div>
           </div>
         ))}
       </div>
