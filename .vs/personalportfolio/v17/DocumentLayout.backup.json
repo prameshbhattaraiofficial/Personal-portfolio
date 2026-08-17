@@ -3,32 +3,44 @@
   "WorkspaceRootPath": "E:\\portfolio\\personalportfolio\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E10C5114-FF4D-4A76-9E73-0B9E7084AEFB}|personalportfolio.Server\\personalportfolio.Server.csproj|e:\\portfolio\\personalportfolio\\personalportfolio.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E10C5114-FF4D-4A76-9E73-0B9E7084AEFB}|personalportfolio.Server\\personalportfolio.Server.csproj|solutionrelative:personalportfolio.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{825D7AC9-666C-F9B7-F2E9-9B35B4F9F86A}|personalportfolio.client\\personalportfolio.client.esproj|e:\\portfolio\\personalportfolio\\personalportfolio.client\\src\\components\\summary.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{825D7AC9-666C-F9B7-F2E9-9B35B4F9F86A}|personalportfolio.client\\personalportfolio.client.esproj|solutionrelative:personalportfolio.client\\src\\components\\summary.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{825D7AC9-666C-F9B7-F2E9-9B35B4F9F86A}|personalportfolio.client\\personalportfolio.client.esproj|e:\\portfolio\\personalportfolio\\personalportfolio.client\\src\\components\\stack.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{825D7AC9-666C-F9B7-F2E9-9B35B4F9F86A}|personalportfolio.client\\personalportfolio.client.esproj|solutionrelative:personalportfolio.client\\src\\components\\stack.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{825D7AC9-666C-F9B7-F2E9-9B35B4F9F86A}|personalportfolio.client\\personalportfolio.client.esproj|e:\\portfolio\\personalportfolio\\personalportfolio.client\\src\\components\\nav.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{825D7AC9-666C-F9B7-F2E9-9B35B4F9F86A}|personalportfolio.client\\personalportfolio.client.esproj|solutionrelative:personalportfolio.client\\src\\components\\nav.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{825D7AC9-666C-F9B7-F2E9-9B35B4F9F86A}|personalportfolio.client\\personalportfolio.client.esproj|e:\\portfolio\\personalportfolio\\personalportfolio.client\\src\\components\\hero.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{825D7AC9-666C-F9B7-F2E9-9B35B4F9F86A}|personalportfolio.client\\personalportfolio.client.esproj|solutionrelative:personalportfolio.client\\src\\components\\hero.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{825D7AC9-666C-F9B7-F2E9-9B35B4F9F86A}|personalportfolio.client\\personalportfolio.client.esproj|e:\\portfolio\\personalportfolio\\personalportfolio.client\\src\\components\\footer.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{825D7AC9-666C-F9B7-F2E9-9B35B4F9F86A}|personalportfolio.client\\personalportfolio.client.esproj|solutionrelative:personalportfolio.client\\src\\components\\footer.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{825D7AC9-666C-F9B7-F2E9-9B35B4F9F86A}|personalportfolio.client\\personalportfolio.client.esproj|e:\\portfolio\\personalportfolio\\personalportfolio.client\\src\\components\\experience.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{825D7AC9-666C-F9B7-F2E9-9B35B4F9F86A}|personalportfolio.client\\personalportfolio.client.esproj|solutionrelative:personalportfolio.client\\src\\components\\experience.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{825D7AC9-666C-F9B7-F2E9-9B35B4F9F86A}|personalportfolio.client\\personalportfolio.client.esproj|e:\\portfolio\\personalportfolio\\personalportfolio.client\\src\\components\\education.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{825D7AC9-666C-F9B7-F2E9-9B35B4F9F86A}|personalportfolio.client\\personalportfolio.client.esproj|solutionrelative:personalportfolio.client\\src\\components\\education.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{825D7AC9-666C-F9B7-F2E9-9B35B4F9F86A}|personalportfolio.client\\personalportfolio.client.esproj|e:\\portfolio\\personalportfolio\\personalportfolio.client\\src\\components\\certificates.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{825D7AC9-666C-F9B7-F2E9-9B35B4F9F86A}|personalportfolio.client\\personalportfolio.client.esproj|solutionrelative:personalportfolio.client\\src\\components\\certificates.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{825D7AC9-666C-F9B7-F2E9-9B35B4F9F86A}|personalportfolio.client\\personalportfolio.client.esproj|e:\\portfolio\\personalportfolio\\personalportfolio.client\\src\\components\\architecturediagram.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{825D7AC9-666C-F9B7-F2E9-9B35B4F9F86A}|personalportfolio.client\\personalportfolio.client.esproj|solutionrelative:personalportfolio.client\\src\\components\\architecturediagram.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{825D7AC9-666C-F9B7-F2E9-9B35B4F9F86A}|personalportfolio.client\\personalportfolio.client.esproj|e:\\portfolio\\personalportfolio\\personalportfolio.client\\src\\api.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{825D7AC9-666C-F9B7-F2E9-9B35B4F9F86A}|personalportfolio.client\\personalportfolio.client.esproj|solutionrelative:personalportfolio.client\\src\\api.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{825D7AC9-666C-F9B7-F2E9-9B35B4F9F86A}|personalportfolio.client\\personalportfolio.client.esproj|e:\\portfolio\\personalportfolio\\personalportfolio.client\\.env.production||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{825D7AC9-666C-F9B7-F2E9-9B35B4F9F86A}|personalportfolio.client\\personalportfolio.client.esproj|solutionrelative:personalportfolio.client\\.env.production||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{825D7AC9-666C-F9B7-F2E9-9B35B4F9F86A}|personalportfolio.client\\personalportfolio.client.esproj|e:\\portfolio\\personalportfolio\\personalportfolio.client\\src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{825D7AC9-666C-F9B7-F2E9-9B35B4F9F86A}|personalportfolio.client\\personalportfolio.client.esproj|solutionrelative:personalportfolio.client\\src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E10C5114-FF4D-4A76-9E73-0B9E7084AEFB}|personalportfolio.Server\\personalportfolio.Server.csproj|e:\\portfolio\\personalportfolio\\personalportfolio.server\\controllers\\portfoliocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E10C5114-FF4D-4A76-9E73-0B9E7084AEFB}|personalportfolio.Server\\personalportfolio.Server.csproj|solutionrelative:personalportfolio.server\\controllers\\portfoliocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E10C5114-FF4D-4A76-9E73-0B9E7084AEFB}|personalportfolio.Server\\personalportfolio.Server.csproj|e:\\portfolio\\personalportfolio\\personalportfolio.server\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{E10C5114-FF4D-4A76-9E73-0B9E7084AEFB}|personalportfolio.Server\\personalportfolio.Server.csproj|solutionrelative:personalportfolio.server\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{825D7AC9-666C-F9B7-F2E9-9B35B4F9F86A}|personalportfolio.client\\personalportfolio.client.esproj|e:\\portfolio\\personalportfolio\\personalportfolio.client\\src\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{825D7AC9-666C-F9B7-F2E9-9B35B4F9F86A}|personalportfolio.client\\personalportfolio.client.esproj|solutionrelative:personalportfolio.client\\src\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{825D7AC9-666C-F9B7-F2E9-9B35B4F9F86A}|personalportfolio.client\\personalportfolio.client.esproj|e:\\portfolio\\personalportfolio\\personalportfolio.client\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
@@ -39,8 +51,32 @@
       "RelativeMoniker": "D:0:0:{825D7AC9-666C-F9B7-F2E9-9B35B4F9F86A}|personalportfolio.client\\personalportfolio.client.esproj|solutionrelative:personalportfolio.client\\src\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{825D7AC9-666C-F9B7-F2E9-9B35B4F9F86A}|personalportfolio.client\\personalportfolio.client.esproj|e:\\portfolio\\personalportfolio\\personalportfolio.client\\src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{825D7AC9-666C-F9B7-F2E9-9B35B4F9F86A}|personalportfolio.client\\personalportfolio.client.esproj|solutionrelative:personalportfolio.client\\src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{825D7AC9-666C-F9B7-F2E9-9B35B4F9F86A}|personalportfolio.client\\personalportfolio.client.esproj|e:\\portfolio\\personalportfolio\\personalportfolio.client\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{825D7AC9-666C-F9B7-F2E9-9B35B4F9F86A}|personalportfolio.client\\personalportfolio.client.esproj|solutionrelative:personalportfolio.client\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{825D7AC9-666C-F9B7-F2E9-9B35B4F9F86A}|personalportfolio.client\\personalportfolio.client.esproj|e:\\portfolio\\personalportfolio\\personalportfolio.client\\src\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{825D7AC9-666C-F9B7-F2E9-9B35B4F9F86A}|personalportfolio.client\\personalportfolio.client.esproj|solutionrelative:personalportfolio.client\\src\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E10C5114-FF4D-4A76-9E73-0B9E7084AEFB}|personalportfolio.Server\\personalportfolio.Server.csproj|e:\\portfolio\\personalportfolio\\personalportfolio.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E10C5114-FF4D-4A76-9E73-0B9E7084AEFB}|personalportfolio.Server\\personalportfolio.Server.csproj|solutionrelative:personalportfolio.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{825D7AC9-666C-F9B7-F2E9-9B35B4F9F86A}|personalportfolio.client\\personalportfolio.client.esproj|e:\\portfolio\\personalportfolio\\personalportfolio.client\\.env.production||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{825D7AC9-666C-F9B7-F2E9-9B35B4F9F86A}|personalportfolio.client\\personalportfolio.client.esproj|solutionrelative:personalportfolio.client\\.env.production||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E10C5114-FF4D-4A76-9E73-0B9E7084AEFB}|personalportfolio.Server\\personalportfolio.Server.csproj|e:\\portfolio\\personalportfolio\\personalportfolio.server\\controllers\\portfoliocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E10C5114-FF4D-4A76-9E73-0B9E7084AEFB}|personalportfolio.Server\\personalportfolio.Server.csproj|solutionrelative:personalportfolio.server\\controllers\\portfoliocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E10C5114-FF4D-4A76-9E73-0B9E7084AEFB}|personalportfolio.Server\\personalportfolio.Server.csproj|e:\\portfolio\\personalportfolio\\personalportfolio.server\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E10C5114-FF4D-4A76-9E73-0B9E7084AEFB}|personalportfolio.Server\\personalportfolio.Server.csproj|solutionrelative:personalportfolio.server\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{825D7AC9-666C-F9B7-F2E9-9B35B4F9F86A}|personalportfolio.client\\personalportfolio.client.esproj|e:\\portfolio\\personalportfolio\\personalportfolio.client\\vite.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
@@ -59,10 +95,6 @@
       "RelativeMoniker": "D:0:0:{E10C5114-FF4D-4A76-9E73-0B9E7084AEFB}|personalportfolio.Server\\personalportfolio.Server.csproj|solutionrelative:personalportfolio.server\\data\\portfoliodata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{825D7AC9-666C-F9B7-F2E9-9B35B4F9F86A}|personalportfolio.client\\personalportfolio.client.esproj|e:\\portfolio\\personalportfolio\\personalportfolio.client\\src\\components\\experience.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{825D7AC9-666C-F9B7-F2E9-9B35B4F9F86A}|personalportfolio.client\\personalportfolio.client.esproj|solutionrelative:personalportfolio.client\\src\\components\\experience.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{825D7AC9-666C-F9B7-F2E9-9B35B4F9F86A}|personalportfolio.client\\personalportfolio.client.esproj|e:\\portfolio\\personalportfolio\\personalportfolio.client\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
       "RelativeMoniker": "D:0:0:{825D7AC9-666C-F9B7-F2E9-9B35B4F9F86A}|personalportfolio.client\\personalportfolio.client.esproj|solutionrelative:personalportfolio.client\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
     }
@@ -74,7 +106,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -82,7 +114,137 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Certificates.jsx",
+              "DocumentMoniker": "E:\\portfolio\\personalportfolio\\personalportfolio.client\\src\\components\\Certificates.jsx",
+              "RelativeDocumentMoniker": "personalportfolio.client\\src\\components\\Certificates.jsx",
+              "ToolTip": "E:\\portfolio\\personalportfolio\\personalportfolio.client\\src\\components\\Certificates.jsx",
+              "RelativeToolTip": "personalportfolio.client\\src\\components\\Certificates.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-08-17T11:35:02.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Footer.jsx",
+              "DocumentMoniker": "E:\\portfolio\\personalportfolio\\personalportfolio.client\\src\\components\\Footer.jsx",
+              "RelativeDocumentMoniker": "personalportfolio.client\\src\\components\\Footer.jsx",
+              "ToolTip": "E:\\portfolio\\personalportfolio\\personalportfolio.client\\src\\components\\Footer.jsx",
+              "RelativeToolTip": "personalportfolio.client\\src\\components\\Footer.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-08-17T11:33:18.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Experience.jsx",
+              "DocumentMoniker": "E:\\portfolio\\personalportfolio\\personalportfolio.client\\src\\components\\Experience.jsx",
+              "RelativeDocumentMoniker": "personalportfolio.client\\src\\components\\Experience.jsx",
+              "ToolTip": "E:\\portfolio\\personalportfolio\\personalportfolio.client\\src\\components\\Experience.jsx",
+              "RelativeToolTip": "personalportfolio.client\\src\\components\\Experience.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-08-16T14:57:09.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Education.jsx",
+              "DocumentMoniker": "E:\\portfolio\\personalportfolio\\personalportfolio.client\\src\\components\\Education.jsx",
+              "RelativeDocumentMoniker": "personalportfolio.client\\src\\components\\Education.jsx",
+              "ToolTip": "E:\\portfolio\\personalportfolio\\personalportfolio.client\\src\\components\\Education.jsx",
+              "RelativeToolTip": "personalportfolio.client\\src\\components\\Education.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-08-17T11:37:25.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "Hero.jsx",
+              "DocumentMoniker": "E:\\portfolio\\personalportfolio\\personalportfolio.client\\src\\components\\Hero.jsx",
+              "RelativeDocumentMoniker": "personalportfolio.client\\src\\components\\Hero.jsx",
+              "ToolTip": "E:\\portfolio\\personalportfolio\\personalportfolio.client\\src\\components\\Hero.jsx",
+              "RelativeToolTip": "personalportfolio.client\\src\\components\\Hero.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-08-17T11:33:11.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Nav.jsx",
+              "DocumentMoniker": "E:\\portfolio\\personalportfolio\\personalportfolio.client\\src\\components\\Nav.jsx",
+              "RelativeDocumentMoniker": "personalportfolio.client\\src\\components\\Nav.jsx",
+              "ToolTip": "E:\\portfolio\\personalportfolio\\personalportfolio.client\\src\\components\\Nav.jsx",
+              "RelativeToolTip": "personalportfolio.client\\src\\components\\Nav.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-08-17T11:32:24.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Stack.jsx",
+              "DocumentMoniker": "E:\\portfolio\\personalportfolio\\personalportfolio.client\\src\\components\\Stack.jsx",
+              "RelativeDocumentMoniker": "personalportfolio.client\\src\\components\\Stack.jsx",
+              "ToolTip": "E:\\portfolio\\personalportfolio\\personalportfolio.client\\src\\components\\Stack.jsx",
+              "RelativeToolTip": "personalportfolio.client\\src\\components\\Stack.jsx",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-08-17T11:32:18.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Summary.jsx",
+              "DocumentMoniker": "E:\\portfolio\\personalportfolio\\personalportfolio.client\\src\\components\\Summary.jsx",
+              "RelativeDocumentMoniker": "personalportfolio.client\\src\\components\\Summary.jsx",
+              "ToolTip": "E:\\portfolio\\personalportfolio\\personalportfolio.client\\src\\components\\Summary.jsx",
+              "RelativeToolTip": "personalportfolio.client\\src\\components\\Summary.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-08-17T11:32:12.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ArchitectureDiagram.jsx",
+              "DocumentMoniker": "E:\\portfolio\\personalportfolio\\personalportfolio.client\\src\\components\\ArchitectureDiagram.jsx",
+              "RelativeDocumentMoniker": "personalportfolio.client\\src\\components\\ArchitectureDiagram.jsx",
+              "ToolTip": "E:\\portfolio\\personalportfolio\\personalportfolio.client\\src\\components\\ArchitectureDiagram.jsx",
+              "RelativeToolTip": "personalportfolio.client\\src\\components\\ArchitectureDiagram.jsx",
+              "ViewState": "AgIAACkAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-08-17T11:30:53.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "api.js",
+              "DocumentMoniker": "E:\\portfolio\\personalportfolio\\personalportfolio.client\\src\\api.js",
+              "RelativeDocumentMoniker": "personalportfolio.client\\src\\api.js",
+              "ToolTip": "E:\\portfolio\\personalportfolio\\personalportfolio.client\\src\\api.js",
+              "RelativeToolTip": "personalportfolio.client\\src\\api.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-08-16T14:26:01.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "main.jsx",
               "DocumentMoniker": "E:\\portfolio\\personalportfolio\\personalportfolio.client\\src\\main.jsx",
               "RelativeDocumentMoniker": "personalportfolio.client\\src\\main.jsx",
@@ -90,11 +252,38 @@
               "RelativeToolTip": "personalportfolio.client\\src\\main.jsx",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2026-08-16T14:21:49.528Z"
+              "WhenOpened": "2026-08-16T14:21:49.528Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 13,
+              "Title": "index.html",
+              "DocumentMoniker": "E:\\portfolio\\personalportfolio\\personalportfolio.client\\index.html",
+              "RelativeDocumentMoniker": "personalportfolio.client\\index.html",
+              "ToolTip": "E:\\portfolio\\personalportfolio\\personalportfolio.client\\index.html",
+              "RelativeToolTip": "personalportfolio.client\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-08-16T14:22:14.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "App.css",
+              "DocumentMoniker": "E:\\portfolio\\personalportfolio\\personalportfolio.client\\src\\App.css",
+              "RelativeDocumentMoniker": "personalportfolio.client\\src\\App.css",
+              "ToolTip": "E:\\portfolio\\personalportfolio\\personalportfolio.client\\src\\App.css",
+              "RelativeToolTip": "personalportfolio.client\\src\\App.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-08-16T15:37:49.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "index.css",
               "DocumentMoniker": "E:\\portfolio\\personalportfolio\\personalportfolio.client\\src\\index.css",
               "RelativeDocumentMoniker": "personalportfolio.client\\src\\index.css",
@@ -102,36 +291,38 @@
               "RelativeToolTip": "personalportfolio.client\\src\\index.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAHgCAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2026-08-16T14:58:06.034Z"
+              "WhenOpened": "2026-08-16T14:58:06.034Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "App.jsx",
               "DocumentMoniker": "E:\\portfolio\\personalportfolio\\personalportfolio.client\\src\\App.jsx",
               "RelativeDocumentMoniker": "personalportfolio.client\\src\\App.jsx",
               "ToolTip": "E:\\portfolio\\personalportfolio\\personalportfolio.client\\src\\App.jsx",
               "RelativeToolTip": "personalportfolio.client\\src\\App.jsx",
-              "ViewState": "AgIAADcAAAAAAAAAAAAAAEkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2026-08-16T14:24:47.982Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "api.js",
-              "DocumentMoniker": "E:\\portfolio\\personalportfolio\\personalportfolio.client\\src\\api.js",
-              "RelativeDocumentMoniker": "personalportfolio.client\\src\\api.js",
-              "ToolTip": "E:\\portfolio\\personalportfolio\\personalportfolio.client\\src\\api.js",
-              "RelativeToolTip": "personalportfolio.client\\src\\api.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA9AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2026-08-16T14:26:01.169Z",
+              "WhenOpened": "2026-08-16T14:24:47.982Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\portfolio\\personalportfolio\\personalportfolio.Server\\Program.cs",
+              "RelativeDocumentMoniker": "personalportfolio.Server\\Program.cs",
+              "ToolTip": "E:\\portfolio\\personalportfolio\\personalportfolio.Server\\Program.cs",
+              "RelativeToolTip": "personalportfolio.Server\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-16T15:36:42.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
               "Title": "launchSettings.json",
               "DocumentMoniker": "E:\\portfolio\\personalportfolio\\personalportfolio.Server\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "personalportfolio.Server\\Properties\\launchSettings.json",
@@ -143,32 +334,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "index.html",
-              "DocumentMoniker": "E:\\portfolio\\personalportfolio\\personalportfolio.client\\index.html",
-              "RelativeDocumentMoniker": "personalportfolio.client\\index.html",
-              "ToolTip": "E:\\portfolio\\personalportfolio\\personalportfolio.client\\index.html",
-              "RelativeToolTip": "personalportfolio.client\\index.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2026-08-16T14:22:14.033Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\portfolio\\personalportfolio\\personalportfolio.Server\\Program.cs",
-              "RelativeDocumentMoniker": "personalportfolio.Server\\Program.cs",
-              "ToolTip": "E:\\portfolio\\personalportfolio\\personalportfolio.Server\\Program.cs",
-              "RelativeToolTip": "personalportfolio.Server\\Program.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAkwCQAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-16T15:36:42.065Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 16,
               "Title": ".env.production",
               "DocumentMoniker": "E:\\portfolio\\personalportfolio\\personalportfolio.client\\.env.production",
               "RelativeDocumentMoniker": "personalportfolio.client\\.env.production",
@@ -180,7 +346,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 17,
               "Title": "PortfolioController.cs",
               "DocumentMoniker": "E:\\portfolio\\personalportfolio\\personalportfolio.Server\\Controllers\\PortfolioController.cs",
               "RelativeDocumentMoniker": "personalportfolio.Server\\Controllers\\PortfolioController.cs",
@@ -192,19 +358,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "App.css",
-              "DocumentMoniker": "E:\\portfolio\\personalportfolio\\personalportfolio.client\\src\\App.css",
-              "RelativeDocumentMoniker": "personalportfolio.client\\src\\App.css",
-              "ToolTip": "E:\\portfolio\\personalportfolio\\personalportfolio.client\\src\\App.css",
-              "RelativeToolTip": "personalportfolio.client\\src\\App.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2026-08-16T15:37:49.239Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 19,
               "Title": "vite.config.js",
               "DocumentMoniker": "E:\\portfolio\\personalportfolio\\personalportfolio.client\\vite.config.js",
               "RelativeDocumentMoniker": "personalportfolio.client\\vite.config.js",
@@ -216,7 +370,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 20,
               "Title": "package.json",
               "DocumentMoniker": "E:\\portfolio\\personalportfolio\\personalportfolio.client\\package.json",
               "RelativeDocumentMoniker": "personalportfolio.client\\package.json",
@@ -228,7 +382,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 21,
               "Title": "appsettings.json",
               "DocumentMoniker": "E:\\portfolio\\personalportfolio\\personalportfolio.Server\\appsettings.json",
               "RelativeDocumentMoniker": "personalportfolio.Server\\appsettings.json",
@@ -240,7 +394,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 22,
               "Title": "PortfolioData.cs",
               "DocumentMoniker": "E:\\portfolio\\personalportfolio\\personalportfolio.Server\\Data\\PortfolioData.cs",
               "RelativeDocumentMoniker": "personalportfolio.Server\\Data\\PortfolioData.cs",
@@ -252,19 +406,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Experience.jsx",
-              "DocumentMoniker": "E:\\portfolio\\personalportfolio\\personalportfolio.client\\src\\components\\Experience.jsx",
-              "RelativeDocumentMoniker": "personalportfolio.client\\src\\components\\Experience.jsx",
-              "ToolTip": "E:\\portfolio\\personalportfolio\\personalportfolio.client\\src\\components\\Experience.jsx",
-              "RelativeToolTip": "personalportfolio.client\\src\\components\\Experience.jsx",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2026-08-16T14:57:09.552Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 23,
               "Title": ".gitignore",
               "DocumentMoniker": "E:\\portfolio\\personalportfolio\\personalportfolio.client\\.gitignore",
               "RelativeDocumentMoniker": "personalportfolio.client\\.gitignore",

@@ -3,7 +3,7 @@ export default function Nav() {
     <header className="nav">
       <div className="nav-inner">
         <div className="nav-logo">
-          pramesh<span>.dev</span>
+          Pramesh<span>Bhattarai</span>
         </div>
         <ul className="nav-links">
           <li><a href="#summary">// summary</a></li>
