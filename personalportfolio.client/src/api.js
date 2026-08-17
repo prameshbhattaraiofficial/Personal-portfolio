@@ -1,4 +1,6 @@
-const BASE = '/api/portfolio'
+/*const BASE = '/api/portfolio'*/
+
+const BASE = import.meta.env.VITE_API_URL || '/api/portfolio'
 
 async function getJson(path) {
   const res = await fetch(`${BASE}/${path}`)
