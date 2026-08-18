@@ -36,3 +36,4 @@ E:\portfolio\personalportfolio\personalportfolio.Server\obj\Debug\net8.0\refint\
 E:\portfolio\personalportfolio\personalportfolio.Server\obj\Debug\net8.0\personalportfolio.Server.pdb
 E:\portfolio\personalportfolio\personalportfolio.Server\obj\Debug\net8.0\personalportfolio.Server.genruntimeconfig.cache
 E:\portfolio\personalportfolio\personalportfolio.Server\obj\Debug\net8.0\ref\personalportfolio.Server.dll
+E:\portfolio\personalportfolio\personalportfolio.Server\obj\Debug\net8.0\personalportfolio.Server.sourcelink.json
